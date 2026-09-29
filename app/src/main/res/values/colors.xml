@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_bg">#150F1B</color>
+    <color name="amber_accent">#E8B86D</color>
+    <color name="amber_text">#F5E6C8</color>
+    <color name="amber_muted">#A89BB0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

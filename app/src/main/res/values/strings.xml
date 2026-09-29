@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Amber</string>
+    <string name="starting">Starting Amber…</string>
+    <string name="starting_python">Starting Amber…</string>
+    <string name="starting_server">Starting local player engine…</string>
+    <string name="start_failed">Could not start Amber</string>
+    <string name="retry">Try again</string>
+    <string name="notification_channel">Amber playback</string>
+    <string name="notification_title">Amber is running</string>
+    <string name="notification_text">Playing in the background</string>
+    <string name="notification_stop">Stop</string>
+    <string name="export_ok">Saved to gallery / Downloads</string>
+    <string name="export_fail">Could not export file</string>
+    <string name="share_title">Share with</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Amber" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/amber_accent</item>
+        <item name="colorPrimaryVariant">@color/amber_bg</item>
+        <item name="colorOnPrimary">@color/amber_bg</item>
+        <item name="colorSecondary">@color/amber_accent</item>
+        <item name="android:statusBarColor">@color/amber_bg</item>
+        <item name="android:navigationBarColor">@color/amber_bg</item>
+        <item name="android:windowBackground">@color/amber_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
